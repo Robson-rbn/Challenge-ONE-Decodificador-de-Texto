@@ -20,7 +20,7 @@ Olá, sou o **Robson**!  Sou apaixonado por desenvolvimento web e busco constant
 
 *  Estou aprendendo atualmente: JavaScript, HTML e CSS
 *  Projetos que me orgulham: Challenge ONE Decodificador de Textos.
-*  Entre em contato comigo: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+*  Entre em contato comigo: www.linkedin.com/in/robson-do-nascimento-18a035172
 
 **O que me motiva:**
 
