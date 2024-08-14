@@ -2,7 +2,7 @@
 
 ## Descrição
 
-[Desafio Alura - Challenge ONE Decodificador de Textos]
+Desafio Alura - Challenge ONE Decodificador de Textos
 
 ## Tecnologias Utilizadas
 
