@@ -8,20 +8,19 @@
 
 * <i class="fa-brands fa-html5"></i> HTML
 * <i class="fa-brands fa-css3-alt"></i> CSS
-* <i class="fa-brands fa-js"></i> JavaScript**J
+* <i class="fa-brands fa-js"></i> JavaScript**
   
 ## Sobre Mim
 
-[![robson](https://avatars.githubusercontent.com/seuusuario)](https://github.com/seuusuario)
+[![Seu Avatar](https://avatars.githubusercontent.com/u/174292359?s=400&u=c7ed6bc153530cc7d19530aadef0c2bbb2a35891&v=4)](https://github.com/u/174292359?s=400&u=c7ed6bc153530cc7d19530aadef0c2bbb2a35891&v=4)
 
-Olá, sou o **[Seu Nome]**!  Sou apaixonado por desenvolvimento web e busco constantemente novas tecnologias para criar soluções inovadoras.
+Olá, sou o **Robson**!  Sou apaixonado por desenvolvimento web e busco constantemente novas tecnologias para criar soluções inovadoras.
 
 **Um pouco sobre mim:**
 
-*  Estou aprendendo atualmente: [Mencione as tecnologias que você está estudando]
-* ️ Minhas principais ferramentas são: [Liste as ferramentas que você utiliza com mais frequência, como React, Node.js, etc.]
-*  Projetos que me orgulham: [Citar seus projetos mais relevantes, com links para os repositórios]
-*  Entre em contato comigo: [Seu e-mail, LinkedIn, ou outras formas de contato]
+*  Estou aprendendo atualmente: JavaScript, HTML e CSS
+*  Projetos que me orgulham: Challenge ONE Decodificador de Textos.
+*  Entre em contato comigo: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 
 **O que me motiva:**
 
@@ -32,6 +31,4 @@ Olá, sou o **[Seu Nome]**!  Sou apaixonado por desenvolvimento web e busco cons
 **Se você está procurando por um desenvolvedor para colaborar em um projeto, não hesite em entrar em contato!** 
 
 
-1. **Clone o repositório:**
-   ```bash
-   git clone [URL inválido removido]
+
