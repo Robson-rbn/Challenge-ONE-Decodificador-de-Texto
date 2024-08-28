@@ -1,6 +1,6 @@
 # Challenge ONE Decodificador de Textos
 
-## Descrição
+## 📓 Descrição
 
 Desafio Alura - Challenge ONE Decodificador de Textos
 
@@ -18,13 +18,13 @@ Desafio Alura - Challenge ONE Decodificador de Textos
 
 Olá, sou o **Robson**!  Sou apaixonado por desenvolvimento web e busco constantemente novas tecnologias para criar soluções inovadoras.
 
-**Um pouco sobre mim:**
+** 📌 Um pouco sobre mim:**
 
 *  Estou aprendendo atualmente: JavaScript, HTML e CSS
 *  Projetos que me orgulham: Challenge ONE Decodificador de Textos.
 *  Entre em contato comigo: www.linkedin.com/in/robson-do-nascimento-tec-inf
 
-**O que me motiva:**
+** 💪 O que me motiva:**
 
 *  Criar produtos que façam a diferença na vida das pessoas.
 *  Colaborar em projetos open source e aprender com outros desenvolvedores.
