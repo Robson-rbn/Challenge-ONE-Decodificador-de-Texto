@@ -7,7 +7,9 @@ Desafio Alura - Challenge ONE Decodificador de Textos
 ## 🛠 Habilidades
 
 *🥇<i class="fa-brands fa-html5"></i> HTML
+
 *🥈<i class="fa-brands fa-css3-alt"></i> CSS
+
 *🥉<i class="fa-brands fa-js"></i> JavaScript**
   
 ## 🚀 Sobre mim
