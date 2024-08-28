@@ -20,7 +20,9 @@ Olá, sou o **Robson**!  Sou apaixonado por desenvolvimento web e busco constant
 
 ** 📌 Um pouco sobre mim:**
 
-*  Estou aprendendo atualmente: JavaScript, HTML e CSS
+*  Estou aprendendo atualmente: JavaScript, HTML e CSS - Alura
+*  Bootcamp NTT DATA - Engenharia de Dados com Python - DIO.
+*  Especialização em Análise de Dados - Hashyag.
 *  Projetos que me orgulham: Challenge ONE Decodificador de Textos.
 *  Entre em contato comigo: www.linkedin.com/in/robson-do-nascimento-tec-inf
 
