@@ -10,7 +10,7 @@ Desafio Alura - Challenge ONE Decodificador de Textos
 
 *🥈<i class="fa-brands fa-css3-alt"></i> CSS
 
-*🥉<i class="fa-brands fa-js"></i> JavaScript**
+*🥉<i class="fa-brands fa-js"></i> JavaScript
   
 ## 🚀 Sobre mim
 
